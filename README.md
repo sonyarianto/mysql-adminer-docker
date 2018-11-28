@@ -2,7 +2,7 @@
 My MySQL server for development purpose with Adminer.
 
 ## Usage
-After clone, type this on the repository folder.
+After clone, type this on the repository folder (make sure `docker-composer` available)
 ```
 docker-compose up -d
 ```
