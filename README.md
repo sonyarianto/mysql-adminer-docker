@@ -1,4 +1,4 @@
-# mysql-adminer-docker
+# MySQL + Adminer on Docker container
 My MySQL server for development purpose with Adminer.
 
 ## Usage
